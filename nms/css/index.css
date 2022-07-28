@@ -1,0 +1,12 @@
+.proofs-chart {
+    width: 900px; /* 111.67 meters, 145 meters */
+    height: 700px;
+    border: 2px solid black;
+}
+
+.ball { /*670px // 870px*/
+    width: 30px; /* 6 meters */
+    height: 30px;
+    border-radius: 50%;
+    background-color: #AAA;
+}
